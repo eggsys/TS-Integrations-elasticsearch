@@ -2,12 +2,6 @@ import { Client } from "@elastic/elasticsearch";
 import "dotenv/config";
 import { cloudId, apiKey } from "../config/default";
 
-
-
-console.log(cloudId);
-console.log(apiKey);
-
-
 const client = new Client({
   cloud: { id: cloudId },
   auth: { apiKey: apiKey },
