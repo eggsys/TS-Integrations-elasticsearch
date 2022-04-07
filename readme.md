@@ -15,3 +15,16 @@ https://cloud.elastic.co/deployments/YOUR_DEPLOYMENT_NAME
 https://YOUR_ELASTICCLOUD_URL:9243/app/management/security/api_keys
 
 
+---
+
+## COMPARISON  RDMS 
+
+| RDMS          | Elastic       | 
+| ------------- |:-------------:| 
+| DB      | indexes | $1600 |
+| Tables      | Patterns/Types      |  
+| Rows | Document      |  
+| Columns | Field      |  
+
+
+

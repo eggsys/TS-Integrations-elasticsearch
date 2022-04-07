@@ -29,7 +29,7 @@ async function run() {
       quote: "I am the blood of the dragon.",
     },
   });
-
+  
   await client.index({
     index: "game-of-thrones",
     document: {
