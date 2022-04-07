@@ -1,8 +1,10 @@
 # README
 
 ## TOOLS
+### Where do I deploy the service?
 https://cloud.elastic.co/
 
+## something might save your time 
 ### elastic integration 
 https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/typescript.html
 
