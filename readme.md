@@ -17,7 +17,7 @@ https://YOUR_ELASTICCLOUD_URL:9243/app/management/security/api_keys
 
 ---
 
-## COMPARISON  RDMS 
+## COMPARISON to RDMS 
 
 | RDMS          | Elastic       | 
 | ------------- |:-------------:| 
